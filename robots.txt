@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiwieshum.yjh25.kr/sitemap.xml
